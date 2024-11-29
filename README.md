@@ -2,7 +2,6 @@
 - 👀 I’m interested in music
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on python projects
-- 📫 How to reach me @potzgrilo
 - 😄 Pronouns: she / her
 - ⚡ Fun fact: ...
 
